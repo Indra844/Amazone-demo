@@ -1,0 +1,20 @@
+.checkOut {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.checkOut_page {
+  flex: 0.8;
+}
+.banner {
+  height: 20vh;
+  width: 100%;
+}
+.checkOut_page h1 {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid gray;
+}

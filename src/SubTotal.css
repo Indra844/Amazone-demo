@@ -1,0 +1,25 @@
+.subTotal {
+  flex: 0.2;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding: 20px;
+  width: 300px;
+  height: 100px;
+  background-color: #f3f3f3;
+  border: 1px solid #dddddd;
+  border-end-end-radius: 3px;
+}
+.subTotal_button {
+  margin-top: 10px;
+  padding: 10px;
+  align-items: center;
+  width: 100%;
+  background-color: #ffb700;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: #111;
+  min-width: 100px;
+}
+.subTotal_button:hover {
+  cursor: pointer;
+}
